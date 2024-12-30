@@ -1,0 +1,5 @@
+name: plugin
+main: com.github.curur.sb.plugin.Main
+version: 0.0.1
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.8.0
